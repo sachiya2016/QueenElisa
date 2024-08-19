@@ -18,7 +18,7 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
+  ALIVE_MEDIA: 'https://i.ibb.co/SsBVkx0/MR-SACHIYA.jpg',
   MONGODB_URL: 'mongodb+srv://sachinthalakshan919:pu00lOoNnH63lniA@cluster0.uuory.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
